@@ -1,0 +1,219 @@
+[gd_scene format=2]
+
+[node name="Room Light" type="Spatial"]
+
+[node name="SpotLight" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, 0.578492, 10.4576, 1.69402 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight2" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -0.467095, 9.53246, 1.46767 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight3" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -0.304751, 10.4576, 1.69402 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight4" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -1.35034, 9.53246, 1.46767 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight5" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -1.96602, 10.4576, 1.69402 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight6" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -3.01161, 9.53246, 1.46767 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight7" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -3.49731, 10.4576, 1.69402 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight8" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -4.5429, 9.53246, 1.46767 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight9" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -5.35647, 10.4576, 1.69402 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight10" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -6.40206, 9.53246, 1.46767 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight11" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -6.90695, 10.4576, 1.69402 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight12" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -7.95253, 9.53246, 1.46767 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight13" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, 0.578492, 10.4576, 5.08954 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight14" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -0.467095, 9.53246, 4.86318 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight15" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -0.304751, 10.4576, 5.08954 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight16" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -1.35034, 9.53246, 4.86318 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight17" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -1.96602, 10.4576, 5.08954 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight18" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -3.01161, 9.53246, 4.86318 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight19" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -3.49731, 10.4576, 5.08954 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight20" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -4.5429, 9.53246, 4.86318 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight21" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -5.35647, 10.4576, 5.08954 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight22" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -6.40206, 9.53246, 4.86318 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight23" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, -0.104841, 0.994489, 0, -0.994489, -0.104841, -6.90695, 10.4576, 5.08954 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
+
+[node name="SpotLight24" type="SpotLight" parent="."]
+transform = Transform( -0.999979, 0.000675204, -0.00640478, 0.00644027, 0.104839, -0.994468, 0, -0.994489, -0.104841, -7.95253, 9.53246, 4.86318 )
+light_energy = 0.5
+light_indirect_energy = 16.0
+light_specular = 16.0
+light_bake_mode = 2
+spot_range = 12.7426
+spot_angle = 81.8496
